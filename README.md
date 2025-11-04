@@ -1,6 +1,6 @@
 # Personal Website of Md. Saiful Bari Siddiqui
 
-[![Website is Live](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=githubpages)](https://saiful185.github.io/)
+[![Website is Live](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=githubpages)](https://saiful-bari.github.io/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > This repository contains the source code for my personal academic portfolio, hosted on GitHub Pages.
@@ -8,7 +8,7 @@
 ## Live Website
 
 You can view the live and interactive website at:
-### **[https://saiful185.github.io/](https://saiful185.github.io/)**
+### **[https://saiful-bari.github.io/](https://saiful-bari.github.io/)**
 
 ---
 
